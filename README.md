@@ -1,8 +1,6 @@
 # HEADLESS_NUXTJS
 headless WordPress website built using Vue.js and Nuxt.js.
 
-demo: https://cheerful-pavlova-6f43c1.netlify.app
-
 This repository contains the code for a headless WordPress website built using Vue.js and Nuxt.js. The website uses WordPress as a backend for managing content, while the frontend is built using Vue.js and Nuxt.js to create a fast and interactive user experience. The website is headless, meaning that the frontend and backend are decoupled and can be developed and deployed independently. This allows for greater flexibility and scalability in the development process. The repository includes all the necessary code to set up and run the website, as well as documentation on how to get started and contribute to the project.
 
 
